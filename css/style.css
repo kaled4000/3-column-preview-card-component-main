@@ -11,10 +11,11 @@ font-family: 'Work Sans', sans-serif;
 font-size: 15px;
 }
 /*layout*/
+
 @media (min-width:375px) {
     
     .cont{
-        margin: 7%;
+        margin: 8%;
         display: grid;
         grid-template-columns: repeat(1,1fr);
         grid-template-rows: 1fr;
